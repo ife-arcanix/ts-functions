@@ -1,6 +1,5 @@
 
     // APIS URLS
-    // jdsds
     //dsds
     const deliverableUrl = "https://arcanix.ai/version-31b2p/api/1.1/obj/Deliverable/[uid]";
     const dependencyUrl = "https://arcanix.ai/version-31b2p/api/1.1/obj/Dependency/[uid]";
